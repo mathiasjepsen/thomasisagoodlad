@@ -1,0 +1,4 @@
+Domain/Group.class
+Facade/GroupFacade.class
+REST/ApplicationConfig.class
+REST/GroupResource.class
